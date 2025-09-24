@@ -1,14 +1,24 @@
 {
   "main": {
-    "id": "5ae03c024cc08840",
+    "id": "373049f2c2a037e8",
     "type": "split",
     "children": [
       {
-        "id": "01b934efe210700d",
+        "id": "d925c5a3f2e9a993",
         "type": "tabs",
         "children": [
           {
-            "id": "53d7359459d5f249",
+            "id": "605f5c95cba483fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "204a134a022cbe7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,37 +31,22 @@
               "title": "1756987180-YVQQ"
             }
           }
-        ]
-      },
-      {
-        "id": "795fe4b3094eece1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b840e19df35aab0c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e9467998e5ac27b0",
+    "id": "e5739e783ab53263",
     "type": "split",
     "children": [
       {
-        "id": "eeabf679742754d1",
+        "id": "4b4972d207715ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e0ca92cbfbccee",
+            "id": "6bee1f10fc976b3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +59,7 @@
             }
           },
           {
-            "id": "8232478920795d0a",
+            "id": "3ed899d2ccb8d8b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +76,7 @@
             }
           },
           {
-            "id": "224a73dfc9f89d5a",
+            "id": "2e7aee1510dc4103",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +92,20 @@
     "width": 300
   },
   "right": {
-    "id": "a00a0e4ffff149e3",
+    "id": "96e76d56c3e9f6e0",
     "type": "split",
     "children": [
       {
-        "id": "13a9efd9292e9453",
+        "id": "15a876238b7c6b17",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4f340e6f785dba",
+            "id": "611160dfabae44db",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1756987180-YVQQ.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1756987180-YVQQ"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "51869244d9478b6a",
+            "id": "6f9e0ffe79b5df6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1756987180-YVQQ.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1756987180-YVQQ"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "04632f696858bde4",
+            "id": "e25bd2987a210dc3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +148,18 @@
             }
           },
           {
-            "id": "4966b2051b4fec25",
+            "id": "a5b1cccf419fd7a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1756987180-YVQQ.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1756987180-YVQQ"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -176,30 +171,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "53d7359459d5f249",
+  "active": "204a134a022cbe7e",
   "lastOpenFiles": [
+    "1756987812-EVWH.md~",
     "1756987295-CQQW.md",
-    "1756987180-YVQQ.md~",
-    "1756987295-CQQW.md~",
-    "1756987812-EVWH.md",
-    "1756986874-CTCA.md",
     "1756987180-YVQQ.md",
-    "1756986874-CTCA.md~",
-    "1756984054-KDAV.md",
-    "1756984054-KDAV.md~",
-    "Welcome.md",
-    "1756983662-KJHP.md~",
-    "1756984009-WYAN.md",
-    "1756983991-QOUG.md",
-    "1756983662-KJHP.md"
+    "1747595505-MTSV.md",
+    "1747603439-YONM.md",
+    "1747526919-FHTP.md",
+    "1747604741-KEEG.md",
+    "1747603844-QNXM.md",
+    "1747526919-FHTP.md~",
+    "1747600851-SZZI.md",
+    "1747601149-UXBW.md",
+    "1747596665-XUGT.md",
+    "1747595585-NGGN.md",
+    "Exam_Review.md",
+    "1747598689-YSIE.md",
+    "1747597252-FFIU.md",
+    "1747599095-YPQP.md",
+    "1747601286-KHGK.md",
+    "1747604287-IYSC.md",
+    "1747597145-XCUN.md",
+    "1747511415-NITJ.md",
+    "1747604741-KEEG.md~",
+    "1747604639-LGYR.md",
+    "1747604639-LGYR.md~",
+    "Exam_Review.md~",
+    "1747601286-KHGK.md~",
+    "1747596143-VBQF.md~",
+    "1747604287-IYSC.md~",
+    "1747511415-NITJ.md~",
+    "1747596143-VBQF.md",
+    "1747603307-SQNM.md",
+    "1747602556-LBQC.md",
+    "1747598768-NUAP.md",
+    "1747598689-YSIE.md~",
+    "1747594764-ZDEL.md"
   ]
 }
