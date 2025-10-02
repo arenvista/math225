@@ -21,10 +21,14 @@
             "id": "204a134a022cbe7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1759176506-FEZM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1759176506-FEZM"
             }
           }
         ],
@@ -178,16 +182,22 @@
   },
   "active": "204a134a022cbe7e",
   "lastOpenFiles": [
+    "2025-10-01.md~",
+    "4913",
+    "2025-10-01.md",
     "2025-09-24.md",
+    "2025-09-29.md",
+    "1759330675-TJRM.md",
+    "1759330675-TJRM.md~",
+    "1759330574-MWHI.md",
+    "1759330574-MWHI.md~",
     "1759176506-FEZM.md",
     "1759176461-NSNQ.md~",
     "1759176461-NSNQ.md",
     "1759176435-LEXV.md",
     "2025-09-29.md~",
-    "4913",
     "2025-09-24.md~",
     "2025-09-03.md",
-    "2025-09-29.md",
     "1756983662-KJHP.md",
     "1756987180-YVQQ.md",
     "1756987812-EVWH.md~",
@@ -206,13 +216,7 @@
     "1747598689-YSIE.md",
     "1747597252-FFIU.md",
     "1747599095-YPQP.md",
-    "1747601286-KHGK.md",
-    "1747604287-IYSC.md",
-    "1747597145-XCUN.md",
-    "1747511415-NITJ.md",
     "1747604741-KEEG.md~",
-    "1747604639-LGYR.md~",
-    "Exam_Review.md~",
-    "1747601286-KHGK.md~"
+    "1747604639-LGYR.md~"
   ]
 }
