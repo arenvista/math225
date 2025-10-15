@@ -73,4 +73,4 @@ $$g'(x) = 0$$
 
 
 $$W(f,g) = 0 - 0 = 0$$
-$$\therefore \exist c \ni f(x) = cg(x)$$
+$$\therefore \exists ~c \ni f(x) = cg(x)$$
